@@ -9,6 +9,7 @@ Hero Section: Displays a promotional message with an email sign-up form for user
 Features Section: Highlights key Netflix features, such as watching on multiple devices, offline downloads, and kids' profiles.
 FAQ Section: Uses an accordion-style dropdown to answer common questions about Netflix services.
 Footer Section: Contains links to various resources like account settings, help center, and terms of use.
+
 Technical Highlights:
 Used HTML5 for the page structure.
 Styled the project using CSS to achieve a professional and polished design.
